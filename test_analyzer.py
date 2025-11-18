@@ -1,5 +1,3 @@
-
-
 import pytest
 from analyzer import count_words, count_chars, find_most_common_word
 
